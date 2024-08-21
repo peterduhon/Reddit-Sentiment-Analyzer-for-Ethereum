@@ -50,6 +50,11 @@ Copy3. The analysis will be saved as an image file (ethereum_analysis.png)
 6. Support for analyzing multiple cryptocurrencies' subreddits
 7. Export options for data in various formats (CSV, JSON)
 8. Integration with other data sources for more comprehensive analysis
+9. Implementing SQL database storage for historical analysis
+10. Advanced NLP features (e.g., entity recognition)
+11. An interactive dashboard for data exploration
+12. Developing a feature to compare sentiment across different subreddits
+13. Adding a predictive component for sentiment forecasting
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
