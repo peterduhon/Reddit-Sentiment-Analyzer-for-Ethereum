@@ -41,6 +41,8 @@ Copy3. The analysis will be saved as an image file (ethereum_analysis.png)
 - The color bar on the right provides a legend for sentiment intensity
 - The summary at the bottom gives an overview of the analyzed comments
 
+- https://github.com/peterduhon/Reddit-Sentiment-Analyzer-for-Ethereum/blob/main/sentiment_analysis.png
+
 ## Upcoming Features and Enhancements
 1. Improved summarization techniques for more insightful overviews
 2. Trend analysis to track sentiment changes over time
